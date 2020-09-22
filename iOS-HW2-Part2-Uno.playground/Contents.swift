@@ -88,9 +88,16 @@ var wild_Draw = UIImage(named: "Wild_Draw.png")
 /// قم بإنشاء الستركت هنا
 
 // struct ...
+struct Card {
+    var number: Int
+    var color: String
+    }
+var cards:[Card] = []
 
-
-
+for i in Card{
+    
+    
+}
 
 
 // لا تقم بإزالة الملاحظات إلا عند وصولك للمطلوب الثالث
